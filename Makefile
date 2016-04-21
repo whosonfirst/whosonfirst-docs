@@ -1,4 +1,7 @@
-readme:
+docs:
+	bin/mk-docs.py
+
+readme: docs
 	touch README.tmp
 	cat boilerplate/INTRO.md >> README.tmp
 	echo "" >> README.tmp
