@@ -1,0 +1,13 @@
+[
+	{
+		"name": "whosonfirst-sources",
+		"description": "Where things come from in Who's On First documents",
+		"url": "https://github.com/whosonfirst/whosonfirst-sources"
+	},
+	{
+		"name": "whosonfirst-properties",
+		"description": "What things mean in Who's On First documents",
+		"url": "https://github.com/whosonfirst/whosonfirst-properties"
+	}
+
+]
