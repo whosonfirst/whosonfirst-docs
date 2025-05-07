@@ -8,4 +8,4 @@ There is no _actual documentation_ in this repository. It is a simple container 
 
 ## What is Who's On First
 
-https://whosonfirst.org/what/
+* https://whosonfirst.org/what/

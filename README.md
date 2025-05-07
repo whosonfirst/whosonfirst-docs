@@ -8,7 +8,7 @@ There is no _actual documentation_ in this repository. It is a simple container 
 
 ## What is Who's On First
 
-https://whosonfirst.org/what/
+* https://whosonfirst.org/what/
 ## Documentation
 
 _This section was generated [by robots](bin/mk-docs.py) on 2025-05-07, derived from the [docs.json](docs.json) file_
@@ -129,7 +129,7 @@ Please consult the [CONTRIBUTING.md](CONTRIBUTING.md) document for details on co
 
 ## Blog
 
-https://whosonfirst.org/blog/
+* https://whosonfirst.org/blog/
 
 ## See also
 

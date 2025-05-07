@@ -65,7 +65,7 @@ Please consult the [CONTRIBUTING.md](CONTRIBUTING.md) document for details on co
 
 ## Blog
 
-https://whosonfirst.org/blog/
+* https://whosonfirst.org/blog/
 
 ## See also
 
