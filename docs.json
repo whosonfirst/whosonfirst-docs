@@ -1,37 +1,42 @@
 [
 	{
-		"name": "whosonfirst-categories",
-		"description": "Buckets and vessels of meaning for Who's On First documents.",
-		"url": "https://github.com/whosonfirst/whosonfirst-categories"
-	},	
-	{
-		"name": "whosonfirst-dates",
-		"description": "This is where we will think about time for Who's On First documents. Which is hard. Because it can not be denied...",
-		"url": "https://github.com/whosonfirst/whosonfirst-dates"
+		"name": "whosonfirst-placetypes",
+		"description": "Where things are (and what they mean) in Who's On First documents",
+		"url": "https://github.com/whosonfirst/whosonfirst-placetypes"
 	},
 	{
 		"name": "whosonfirst-hierarchies",
 		"description": "Relationships in Who's On First documents (see also: \"All families are psychotic\")",
 		"url": "https://github.com/whosonfirst/whosonfirst-hierarchies"
-	},	
+	},	    
 	{
-		"name": "whosonfirst-names",
-		"description": "What things are called in Who's On First documents",
-		"url": "https://github.com/whosonfirst/whosonfirst-names"
-	},	
-	{
-		"name": "whosonfirst-placetypes",
-		"description": "Where things are (and what they mean) in Who's On First documents",
-		"url": "https://github.com/whosonfirst/whosonfirst-placetypes"
-	},
+		"name": "whosonfirst-sources",
+		"description": "Where things come from in Who's On First documents",
+		"url": "https://github.com/whosonfirst/whosonfirst-sources"
+	},    
 	{
 		"name": "whosonfirst-properties",
 		"description": "What things mean in Who's On First documents",
 		"url": "https://github.com/whosonfirst/whosonfirst-properties"
 	},
 	{
-		"name": "whosonfirst-sources",
-		"description": "Where things come from in Who's On First documents",
-		"url": "https://github.com/whosonfirst/whosonfirst-sources"
-	}
+		"name": "whosonfirst-names",
+		"description": "What things are called in Who's On First documents",
+		"url": "https://github.com/whosonfirst/whosonfirst-names"
+	},
+	{
+		"name": "whosonfirst-geometries",
+		"description": "Types of geometries in Who's On First, and their meaning.",
+		"url": "https://github.com/whosonfirst/whosonfirst-geometries"
+	},        
+	{
+		"name": "whosonfirst-dates",
+		"description": "This is where we will think about time for Who's On First documents. Which is hard. Because it can not be denied...",
+		"url": "https://github.com/whosonfirst/whosonfirst-dates"
+	},    
+	{
+		"name": "whosonfirst-categories",
+		"description": "Buckets and vessels of meaning for Who's On First documents.",
+		"url": "https://github.com/whosonfirst/whosonfirst-categories"
+	}	
 ]
