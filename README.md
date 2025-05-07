@@ -19,12 +19,6 @@ Where things are (and what they mean) in Who's On First documents
 
 * https://github.com/whosonfirst/whosonfirst-placetypes
 
-### whosonfirst-hierarchies
-
-Relationships in Who's On First documents (see also: "All families are psychotic")
-
-* https://github.com/whosonfirst/whosonfirst-hierarchies
-
 ### whosonfirst-sources
 
 Where things come from in Who's On First documents
