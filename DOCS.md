@@ -1,6 +1,6 @@
 ## Documentation
 
-_This section was generated [by robots](bin/mk-docs.py) on 2016-04-21, derived from the [docs.json](docs.json) file_
+_This section was generated [by robots](bin/mk-docs.py) on 2025-05-07, derived from the [docs.json](docs.json) file_
 
 ### whosonfirst-categories
 
